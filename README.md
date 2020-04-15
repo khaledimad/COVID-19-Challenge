@@ -1,4 +1,7 @@
 # COVID-19-Challenge
+The goal of this project is to assess the role of partisanship in the battle with COVID-19
+
+
 The data sources:
 1. https://en.wikipedia.org/wiki/2018_United_States_elections
 2. https://github.com/Keystone-Strategy/covid19-intervention-data
