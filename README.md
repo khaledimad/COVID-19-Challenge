@@ -8,7 +8,7 @@ Sheltered-in-place since mid-March, more than 60 students on 14 teams rallied vi
 
 https://gsm.ucdavis.edu/blog/students-team-solutions-covid-19-challenge
 
-<b>The goal of our project was to assess the role of partisanship in the battle with COVID-19.</b>
+<b><u>The goal of our project was to assess the role of partisanship in the battle with COVID-19.</u></b>
 
 Through our findings, we recommended a state-led response utilizing data from three different angles: public awareness, government intervention and community mobility reports.
 
