@@ -10,7 +10,7 @@ https://gsm.ucdavis.edu/blog/students-team-solutions-covid-19-challenge
 
 <b><u>The goal of our project was to assess the role of partisanship in the battle with COVID-19.</u></b>
 
-Through our findings, we recommended a state-led response utilizing data from three different angles: public awareness, government intervention and community mobility reports.
+Based on our findings, we recommended a state-led response utilizing data from three different angles: public awareness, government intervention and community mobility reports. Accordingly, our team was <b>awarded first place.</b>
 
 ## The data sources:
 1. https://en.wikipedia.org/wiki/2018_United_States_elections
